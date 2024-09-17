@@ -22,14 +22,14 @@ The high accuracy rates demonstrate the effectiveness of using ResNet-18 for cla
 
 ## Training Visualization
 
-### Training Loss and Validation Accuracy
-
-![Training Loss and Validation Accuracy](images/training.PNG)
-
-This image shows the training loss and validation accuracy over epochs, illustrating the model's performance improvement throughout the training process.
-
 ### Sample Dataset Images
 
 ![Sample Dataset Images](images/data.PNG)
 
 This image provides examples of the dataset used in the project, showcasing some of the fish species included in the training and evaluation phases.
+
+### Training Loss and Validation Accuracy
+
+![Training Loss and Validation Accuracy](images/training.PNG)
+
+This image shows the training loss and validation accuracy over epochs, illustrating the model's performance improvement throughout the training process.
